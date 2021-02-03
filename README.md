@@ -56,6 +56,9 @@ not present in_cons_email_chapter_subscription table.
 Review the meta_data.xlsx file as the connectors between the tables are highlighted and the assumption pertaining to the 
 output file 'people.csv' is documented. 
 
+To calculate the aggregate stats, about when people in the data set were acquired, the number of constituents acquired were aggregated 
+by year as I failed to understand what is the criteria that must be incorporated in arriving at the conclusion. 
+
 
 
 
