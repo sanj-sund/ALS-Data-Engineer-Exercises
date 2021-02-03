@@ -24,7 +24,7 @@ cons_email_chapter_subscription.csv:
     https://als-hiring.s3.amazonaws.com/fake_data/2020-07-01_17%3A11%3A00/cons_email_chapter_subscription.csv
     The records with chapter_id = 1 is extracted. 
      
-# Output CSV files
+# Output CSV files - Will be created in the working directory. 
 1) people.csv
 
 Holds the data schema of:
