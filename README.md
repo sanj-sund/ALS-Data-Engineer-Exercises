@@ -26,10 +26,14 @@ cons_email_chapter_subscription.csv:
      
 # Output CSV files
 1) people.csv
+
 Holds the data schema of:
 email(Primary email address), code (Source code), is_unsub(email address unsubscripted),
 created_dt(Person created datetime), updated_dt (Person updated datetime)
+
 2) acquisition_facts
+
+Holds the aggregates stats about when people in the dataset were acquired
 
 # Programming logic: 
 
